@@ -1,0 +1,11 @@
+# GitHub Pages Configuration
+
+# Set the source branch for GitHub Pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      github:
+        pages:
+          branch: main
+          path: /
